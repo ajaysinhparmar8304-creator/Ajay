@@ -21,4 +21,5 @@ aiofiles
 pytz
 umongo
 speedtest-cli
-setuptools
+setuptools>=70
+gunicorn
